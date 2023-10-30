@@ -1,13 +1,25 @@
 <div align="center">
-<h1 align="center">Hello, I'm Jose! Welcome to my GitHub! 👋</h1>
+<h1 align="center">🚀 Hello, I'm Jose! Welcome to my GitHub! 👋</h1>
 </div>
 <img src="https://imgur.com/1tVNKvd.png">
 
 
 
+I'm Jose, a (Junior Full-Stack Developer) with a taste for problem-solving 🧩, exploring new places 🌍, capturing moments 📸, gaming 🎮, and the thrill of motor sports 🏁. I'm all about experiencing diverse traditions and cultures! 🌮🌏🏞️
 
 
-My name is Jose (Junior Full stack Developer)**.  I ✨ like ✨  problem solving, traveling, photography, dancing, video games, conversations. I ✨ like ✨  to explore new places with different traditions and cultures.
+- 🌱 Currently, I'm cultivating my skills in the world of coding, diving deep into HTML, CSS, JavaScript, Node.js, and React.js.
+- 👯 I'm eager to collaborate on exciting tech projects and explore fresh opportunities.
+
+
+My journey as a Jr Full-Stack Developer kicked off in March 2023 with no prior coding experience, and it's been a wild ride since! My mission? To wrangle HTML, lasso CSS, and tame JavaScript to create digital wonders.
+
+
+Though I might be a greenhorn in the industry, I'm determined to become a rootin' tootin' Full-Stack trailblazer 🤠. My approach is all about 🚀passion, 🌟perseverance, and a dash of 🤖creativity, always ready to take on the next coding adventure.
+
+
+I'm committed to this thrilling journey, day by day, in the ever-evolving world of web development, working with cutting-edge technologies, and wrangling new coding challenges! 🚀🌍🤖🔥
+
 
 </br>
 
@@ -70,7 +82,11 @@ My name is Jose (Junior Full stack Developer)**.  I ✨ like ✨  problem solvin
 </br>
 
 
+## 📈 GitHub Stats 
 
+[![josemiguelmolinam github stats](https://github-readme-stats.vercel.app/api?username=josemiguelmolinam)](https://github.com/josemiguelmolinam)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josemiguelmolinam&layout=compact)](https://github.com/josemiguelmolinam)
 
 
 
