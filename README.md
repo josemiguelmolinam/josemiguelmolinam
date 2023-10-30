@@ -1,21 +1,12 @@
-<img src="https://imgur.com/1tVNKvd.png">
-</br>
+![Image](https://imgur.com/1tVNKvd.png)
 
 </br>
-
-<div align="center">
-<h1 align="center">🚀 Hello, I'm Jose! Welcome to my GitHub! 👋</h1>
-</div>
-
-
 </br>
 
-</br>
+# 🚀 Hello, I'm Jose! Welcome to my GitHub! 👋
 
 </br>
-
 </br>
-
 
 I'm Jose, a (Junior Full-Stack Developer) with a taste for problem-solving 🧩, exploring new places 🌍, capturing moments 📸, gaming 🎮, and the thrill of motor sports 🏁. I'm all about experiencing diverse traditions and cultures! 🌮🌏🏞️
 
@@ -36,29 +27,12 @@ Though I might be a greenhorn in the industry, I'm determined to become a rootin
 
 I'm committed to this thrilling journey, day by day, in the ever-evolving world of web development, working with cutting-edge technologies, and wrangling new coding challenges! 🚀🌍🤖🔥
 
-
 </br>
-
-</br>
-
-</br>
-
-## 🤝 Connect with me:
-
-<a href="https://www.linkedin.com/in/jose-molina-morales/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="josemiguelmolinam | LinkedIn" width="35px"/></a>
-
-<a href="mailto:josewebdeveloper3@gmail.com"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="deepa jarout | Gmail" width="35px"/></a>
-
-
-</br>
-
-</br>
-
-</br>
-
 </br>
 
 ## 💼 Technical Skills
+
+</br>
 
 ![](https://img.shields.io/badge/Framework-node.js-informational?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
@@ -66,7 +40,6 @@ I'm committed to this thrilling journey, day by day, in the ever-evolving world 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/code-JWT-informational?style=flat&logo=JSON%20web%20tokens)
-
 
 </br>
 
@@ -76,27 +49,8 @@ I'm committed to this thrilling journey, day by day, in the ever-evolving world 
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Tools-github-informational?style=flat&logo=github&logoColor=white)
 
-
-
-
 </br>
-
-
-
-
 </br>
-
-
-
-
-
-</br>
-
-
-
-
-</br>
-
 
 ## 📈 GitHub Stats 
 
@@ -104,18 +58,26 @@ I'm committed to this thrilling journey, day by day, in the ever-evolving world 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josemiguelmolinam&layout=compact)](https://github.com/josemiguelmolinam)
 
+</br>
+</br>
 
+
+## 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/jose-molina-morales/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="josemiguelmolinam | LinkedIn" width="35px"/></a>
+
+
+<a href="mailto:josewebdeveloper3@gmail.com"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="deepa jarout | Gmail" width="35px"/></a>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 **Visitor Count :**
-<br>
 
 ![Visitor Count](https://profile-counter.glitch.me/{josemiguelmolinam}/count.svg) 
 
+</br>
+
 <img src="https://img.shields.io/github/followers/josemiguelmolinam">
-
-
-
-
-
-
-
