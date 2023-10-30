@@ -3,7 +3,9 @@
 </br>
 </br>
 
-# 🚀 Hello, I'm Jose! Welcome to my GitHub! 👋
+<div align="center">
+<h1 align="center">🚀 Hello, I'm Jose! Welcome to my GitHub! 👋</h1>
+</div>
 
 </br>
 </br>
